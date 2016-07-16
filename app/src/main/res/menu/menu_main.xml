@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Menu_marca"
+        android:showAsAction="ifRoom|withText"
+        android:title="@string/registrar_marca" />
+    <item
+        android:id="@+id/Menu_buscarProducto"
+        android:showAsAction="ifRoom|withText"
+        android:title="@string/buscar_producto" />
+    <item
+        android:id="@+id/Menu_buscarMarca"
+        android:showAsAction="ifRoom|withText"
+        android:title="@string/buscar_marca" />
+</menu>

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Catalogo App</string>
+    <string name="registro_pro">Registro de Productos</string>
+    <string name="Nombre_producto">Nombre</string>
+    <string name="Marca_producto">Marca</string>
+    <string name="Fecha_producto">Fecha</string>
+    <string name="inventario">En inventario</string>
+    <string name="Calendario">Calendario</string>
+    <string name="Observaciones">Observaciones</string>
+    <string name="catalogo">Catalogo</string>
+    <string name="ingresa_fecha">Ingresa la fecha</string>
+    <string name="registrar">Registrar Producto</string>
+    <string name="Cancelar">Cancelar</string>
+    <string name="Aceptar">Aceptar</string>
+    <string name="talla">Talla</string>
+    <string name="registrar_marca">Registrar Marca</string>
+    <string name="Id_marca">ID</string>
+    <string name="Nombre_marca">Nombre</string>
+    <string name="id_nulo">Id no valido</string>
+    <string name="name_nulo">Nombre invalido</string>
+    <string name="agregar_marcas">Debe agregar una marca para continuar</string>
+    <string name="nombre_marca">Nombre marca</string>
+    <string name="inventario_numerico">El inventario es un campo numerico</string>
+    <string name="no_inventario">Inventario no valido</string>
+    <string name="no_marca">Marca no valida</string>
+    <string name="productro_registrado">El producto a sido registrado</string>
+    <string name="producto_no_registrado">Imposible Registrar producto</string>
+    <string name="Existencias">Existencias #:</string>
+    <string name="productos">Productos</string>
+    <string name="no_productos">No existen productos</string>
+    <string name="marcas">Marcas</string>
+    <string name="buscar_marca">Buscar Marca</string>
+    <string name="buscar_producto">Buscar Producto</string>
+    <string name="Buscar">Buscar</string>
+    <string name="campos_busqueda_marca">Se debe tener almenos un campo lleno</string>
+    <string name="sin_resultados">Sin Resultados</string>
+</resources>

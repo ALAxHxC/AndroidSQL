@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="Personalizacion" parent="@style/_Personalizacion"/>
+
+  <style name="_Personalizacion" parent="Theme.AppCompat.Light.DarkActionBar">
+
+    <item name="android:editTextStyle">@style/EditTextPersonalizacion</item>
+
+    <item name="android:textColorHighlight">#9930acd6</item>
+
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewPersonalizacion</item>
+
+    <item name="android:checkboxStyle">@style/CheckBoxPersonalizacion</item>
+
+    <item name="android:radioButtonStyle">@style/RadioButtonPersonalizacion</item>
+
+    <item name="android:buttonStyle">@style/ButtonPersonalizacion</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonPersonalizacion</item>
+
+    <item name="android:spinnerStyle">@style/SpinnerPersonalizacion</item>
+
+    <item name="android:spinnerDropDownItemStyle">@style/SpinnerDropDownItemPersonalizacion</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBarPersonalizacion</item>
+
+    <item name="android:seekBarStyle">@style/SeekBarPersonalizacion</item>
+
+    <item name="android:ratingBarStyle">@style/RatingBarPersonalizacion</item>
+
+    <item name="android:ratingBarStyleIndicator">@style/RatingBarBigPersonalizacion</item>
+
+    <item name="android:ratingBarStyleSmall">@style/RatingBarSmallPersonalizacion</item>
+
+    <item name="android:buttonStyleToggle">@style/TogglePersonalizacion</item>
+
+    <item name="android:listViewStyle">@style/ListViewPersonalizacion</item>
+
+    <item name="android:listViewWhiteStyle">@style/ListViewPersonalizacion.White</item>
+
+    <item name="android:spinnerItemStyle">@style/SpinnerItemPersonalizacion</item>
+
+  </style>
+
+</resources>
